@@ -1,0 +1,8 @@
+#navbar {
+  position: absolute;
+}
+@media screen and (max-width: 50%){
+  html {
+    width: 50%;
+  }
+}
